@@ -1,0 +1,11 @@
+E:\OSMS_Emperor\OSMS_Emperor\bin\Debug\OSMS_Emperor.exe
+E:\OSMS_Emperor\OSMS_Emperor\bin\Debug\OSMS_Emperor.pdb
+E:\OSMS_Emperor\OSMS_Emperor\bin\Debug\IrisSkin4.dll
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.csprojResolveAssemblyReference.cache
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.Properties.Resources.resources
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.csproj.GenerateResource.Cache
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.exe
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.pdb
+E:\OSMS_Emperor\OSMS_Emperor\bin\Debug\IrisSkins.dll
+E:\OSMS_Emperor\OSMS_Emperor\bin\Debug\IrisSkins.pdb
+E:\OSMS_Emperor\OSMS_Emperor\obj\Debug\OSMS_Emperor.OSMS.resources
