@@ -1,0 +1,5 @@
+E:\OSMS_Emperor\Print\bin\Debug\Print.dll
+E:\OSMS_Emperor\Print\bin\Debug\Print.pdb
+E:\OSMS_Emperor\Print\obj\Debug\Print.csprojResolveAssemblyReference.cache
+E:\OSMS_Emperor\Print\obj\Debug\Print.dll
+E:\OSMS_Emperor\Print\obj\Debug\Print.pdb

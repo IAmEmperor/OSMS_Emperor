@@ -1,0 +1,5 @@
+E:\OSMS_Emperor\IrisSkins\bin\Debug\IrisSkins.dll
+E:\OSMS_Emperor\IrisSkins\bin\Debug\IrisSkins.pdb
+E:\OSMS_Emperor\IrisSkins\obj\Debug\IrisSkins.csprojResolveAssemblyReference.cache
+E:\OSMS_Emperor\IrisSkins\obj\Debug\IrisSkins.dll
+E:\OSMS_Emperor\IrisSkins\obj\Debug\IrisSkins.pdb
